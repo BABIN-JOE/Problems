@@ -5,4 +5,4 @@ Java and Python Problem Statements with Programs.
 
 Just made it for last minute qucik revision for interviews.
 
-Right now only
+Right now only Java and Python programmes are available.
