@@ -20,7 +20,6 @@ public class pg0003 {
                     c2++;
                 }
             }
-    
         }
         System.out.println("Vowels: " + c1);
         System.out.println("Consonants: " + c2);
