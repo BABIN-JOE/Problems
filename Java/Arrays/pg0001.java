@@ -30,6 +30,7 @@ class pg0001 {
         int max = arr[n-1];
         int min = arr[0];
          */
+        
         System.out.println("Maximum element: " + max);
         System.out.println("Minimum element: " + min);
     }
