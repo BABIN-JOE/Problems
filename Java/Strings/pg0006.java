@@ -24,6 +24,7 @@ public class pg0006 {
                 System.out.println("Not anagrams");
             }
         }
+        
         /* 
         else{
             int[] arr = new int[26];
@@ -40,5 +41,6 @@ public class pg0006 {
             System.out.println("Anagram");
         }
             */
+        
     }
 }
