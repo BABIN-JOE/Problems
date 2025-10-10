@@ -26,7 +26,6 @@ class pg0003{
             System.out.print(i+" ");
         }
     }
-    
     static void reverse(int arr[], int start, int end){
         while(start<end){
             int temp = arr[start];
