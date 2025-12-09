@@ -1,4 +1,3 @@
-
 // Reverse a string – Rearrange characters in a string from last to first without built-in reverse.
 
 import java.util.Scanner;
