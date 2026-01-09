@@ -22,6 +22,3 @@ class pg0004{
         System.out.println("Missing number is: "+(total-sum));
     }
 }
-
-
-
