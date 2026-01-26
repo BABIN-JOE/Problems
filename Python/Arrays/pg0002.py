@@ -16,4 +16,3 @@ while(left<right):
 print(arr)
 
 
-
