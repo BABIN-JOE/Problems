@@ -8,3 +8,5 @@ for i in s:
 else:
     print("No non-repeating character")
 
+
+
