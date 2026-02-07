@@ -13,3 +13,4 @@ if duplicate:
     print("Duplicate elements:", list(duplicate))
 else:
     print("No duplicates found")
+
