@@ -12,3 +12,6 @@ for i in s:
             c2+=1
 print("Vowels: ",c1)
 print("Consonants: ",c2)
+
+
+
