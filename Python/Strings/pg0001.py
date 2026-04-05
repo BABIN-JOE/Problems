@@ -5,4 +5,3 @@ reversed = ''
 for i in s:
     reversed = i + reversed
 print(reversed)
-
