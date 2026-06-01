@@ -7,3 +7,6 @@ for i in s:
         break
 else:
     print("No non-repeating character")
+
+
+
