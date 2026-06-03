@@ -20,5 +20,3 @@ for i in range(count):
 """
 
 print(arr)
-
-
