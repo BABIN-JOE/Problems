@@ -29,3 +29,7 @@ for i in range(k):
     arr[i] = temp[i]
 print(arr)
 """
+
+
+
+
