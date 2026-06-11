@@ -17,3 +17,5 @@ for right in range(len(s)):
 print(s[start:start + max_len])
 
 
+
+
