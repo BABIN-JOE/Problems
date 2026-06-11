@@ -15,5 +15,3 @@ for right in range(len(s)):
         max_len = right - left + 1
         start = left
 print(s[start:start + max_len])
-
-
