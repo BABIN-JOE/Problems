@@ -27,4 +27,3 @@ public class pg0007 {
         System.out.println(longestSubstr);
     }
 }
-
