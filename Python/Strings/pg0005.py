@@ -8,3 +8,6 @@ for i in s:
 print(result)
 
 
+
+
+
