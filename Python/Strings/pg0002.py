@@ -11,4 +11,3 @@ if s2 == rev:
 else:
     print("Not a Palindrome")
 
-
