@@ -12,4 +12,3 @@ else:
     print("Not a Palindrome")
 
 
-
