@@ -20,4 +20,3 @@ print("Consonants: ",c2)
 
 
 
-
