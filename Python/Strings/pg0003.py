@@ -14,3 +14,6 @@ print("Vowels: ",c1)
 print("Consonants: ",c2)
 
 
+
+
+
