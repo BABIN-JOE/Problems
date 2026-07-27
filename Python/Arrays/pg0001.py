@@ -35,4 +35,3 @@ print("Minimum element: ", min)
 
 
 
-
