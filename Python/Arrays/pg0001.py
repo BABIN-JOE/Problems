@@ -24,5 +24,3 @@ print("Maximum element: ", max)
 print("Minimum element: ", min)
 
 
-
-
