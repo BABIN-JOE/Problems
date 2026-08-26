@@ -41,7 +41,7 @@ public class pg0006 {
                 res[j++] = arr[i];
             }
         }
-        for(int i = arr.lenggth - count;i<arr.length;i++){
+        for(int i = arr.length - count;i<arr.length;i++){
             res[i] = 0;
         }
         for(int i : res){
