@@ -35,3 +35,4 @@ class pg0001 {
         System.out.println("Minimum element: " + min);
     }
 }
+
