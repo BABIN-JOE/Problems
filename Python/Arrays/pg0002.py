@@ -15,3 +15,4 @@ while(left<right):
     right-=1
 print(arr)
 
+
