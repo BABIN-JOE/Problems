@@ -13,4 +13,3 @@ for i in s:
 print("Vowels: ",c1)
 print("Consonants: ",c2)
 
-
