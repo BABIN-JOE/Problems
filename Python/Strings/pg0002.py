@@ -10,3 +10,4 @@ if s2 == rev:
     print("Palindrome")
 else:
     print("Not a Palindrome")
+
