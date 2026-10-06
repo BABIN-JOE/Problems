@@ -22,3 +22,4 @@ min = sort(arr)[0]
 
 print("Maximum element: ", max)
 print("Minimum element: ", min)
+
