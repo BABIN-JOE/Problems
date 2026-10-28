@@ -47,6 +47,7 @@ public class pg0006 {
         for(int i : res){
             System.out.print(i+" ");
         }    
+        
          */
     }
 }
